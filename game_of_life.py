@@ -4,7 +4,7 @@
 @author: sarasamy
 """
 
-MARGIN = 20  # Pixels around the board
+MARGIN = 30  # Pixels around the board
 
 
 ########### ------IMPORTS-------########### 
